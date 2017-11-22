@@ -127,16 +127,19 @@ html{
 技能
 ----
 
-* 3年前端开发经验，熟悉HTML5/CSS3/JavaScript
-* 熟悉框架React、Vue、jQuery、Backbone、BootStrap、Antd等
+* 4年前端开发经验，熟悉HTML5/CSS3/JavaScript
+* 熟悉框架React/React-router/Mobx、Vue/Vue-router/Vuex、 jQuery、Backbone、BootStrap
 * 熟悉打包工具Webpack、Gulp等
-* 有后端C、C++开发经验
+* 有后端C、C++开发经验，有网络编程、多线程编程经验，了解MySQL数据库
+* 精通基础技能：命令行、代码版本控制(Git、Svn)、开发环境(VS Code、Webstorm、Sublime等)、文档工具(GitBook、Markdown等)、建模工具(Axure、OmniGraffle、MS Visio等);
+* 有专利撰写经验，熟悉专利申请流程，拥有专利工程师培训证书
 
 工作经历
 ----
 
-1. AsiaInfo 亚信科技 ---- 前端工程师
-2. CrabxLab ---- 软件工程师
+1. ZTE 中兴通讯 ---- 中国Lora应用联盟 前端负责人
+2. AsiaInfo 亚信科技 ---- P9PAAS项目 前端负责人
+3. CrabxLab ---- 软件工程师
 
 项目经验
 ----
